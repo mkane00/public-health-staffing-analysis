@@ -38,7 +38,7 @@ Analyzed influenza-related mortality and population data to estimate healthcare 
 - Geographic distribution of high-risk populations  
 - Comparison of population vs. mortality rates  
 
-🔗 [Watch my walkthrough on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+🔗 [Watch my walkthrough on YouTube](https://www.youtube.com/watch?v=z-_bV5O6LNE&t=26s)
 
 ## 💡 Recommendations
 - Prioritize staffing in states with high concentrations of vulnerable populations  

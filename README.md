@@ -1,4 +1,4 @@
-# Healthcare Staffing Demand Analysis
+# Public Health Staffing Analysis
 
 ## 📌 Project Overview
 Analyzed influenza-related mortality and population data to estimate healthcare staffing demand across U.S. states. The goal was to identify high-risk populations, anticipate peak demand periods, and support proactive workforce planning for the influenza season.
